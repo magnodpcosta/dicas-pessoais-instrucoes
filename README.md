@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @saviorarauto
-- 👀 I’m interested in  aprender todo conteúdo de programação em C#, Java, Html, CSS e Java Script
-- 🌱 I’m currently learning C#, Java, Html, CSS e Java Script
-- 💞️ I’m looking to collaborate on  any opportunity to improve my experience as Developer.
-- 📫 How to reach me : magno2006.diego@gmail.com
+👋 Hi, I’m @saviorarauto
 
-<!---
-saviorarauto/saviorarauto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Production Engineer currently working with water resource management, where I apply analytical thinking and systems knowledge to real-world challenges.
+
+💻 Along the way, I discovered a passion for programming — a powerful tool to create innovative solutions. Now, I'm diving deeper into the world of technology and software development.
+
+🌱 I’m currently learning C#, HTML, CSS, and JavaScript.
+
+🚀 I'm looking to collaborate on any projects or opportunities that help me grow as a developer and apply my engineering background to build impactful solutions.
+
+📫 How to reach me: magno2006.diego@gmail.com
